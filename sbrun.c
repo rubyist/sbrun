@@ -4,7 +4,7 @@
  * Purpose:        It's a run minimal dialog with history and completion.
  *                 This is the code for it, if you hadn't surmised.
  *
- * Author:         Scott Barron <kain@dynup.net>
+ * Author:         Scott Barron 
  *
  * Requires:       Gtk+2 and everything it needs.
  *
