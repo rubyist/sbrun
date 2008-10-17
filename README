@@ -1,0 +1,20 @@
+/* *****************************************************************************
+* File: sbrun.c
+*
+* Purpose: It's a run minimal dialog with history and completion.
+* This is the code for it, if you hadn't surmised.
+*
+* Author: Scott Barron <kain@dynup.net>
+*
+* Requires: Gtk+2 and everything it needs.
+*
+* Install: gcc -o sbrun `pkg-config --cflags --libs gtk+-2.0` sbrun.c
+* If you have trouble with this just install GNOME or KDE
+* or something, this isn't for you.
+*
+* License: Yeah, whatever. If you're so pathetic you'd have to steal
+* such simple code, steal it. You're probably going to hell
+* anyway. If you're not pathetic and you just want a run
+* dialog that doesn't blow, use this in whatever way you see
+* fit. You won't be going to hell.
+* ****************************************************************************/
